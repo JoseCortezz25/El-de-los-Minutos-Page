@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/El-de-los-Minutos-Page/static/css/main.2e16f2a9.chunk.css",
-    "main.js": "/El-de-los-Minutos-Page/static/js/main.4541ce42.chunk.js",
-    "main.js.map": "/El-de-los-Minutos-Page/static/js/main.4541ce42.chunk.js.map",
+    "main.js": "/El-de-los-Minutos-Page/static/js/main.1d191f0f.chunk.js",
+    "main.js.map": "/El-de-los-Minutos-Page/static/js/main.1d191f0f.chunk.js.map",
     "runtime-main.js": "/El-de-los-Minutos-Page/static/js/runtime-main.047ef6b0.js",
     "runtime-main.js.map": "/El-de-los-Minutos-Page/static/js/runtime-main.047ef6b0.js.map",
     "static/js/2.0b9a776a.chunk.js": "/El-de-los-Minutos-Page/static/js/2.0b9a776a.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.047ef6b0.js",
     "static/js/2.0b9a776a.chunk.js",
     "static/css/main.2e16f2a9.chunk.css",
-    "static/js/main.4541ce42.chunk.js"
+    "static/js/main.1d191f0f.chunk.js"
   ]
 }
