@@ -12,7 +12,7 @@ const Header = () => {
                         <img src={ logoMinutosNews } alt="logo del canal" />
                     </nav>
                     <nav>
-                        <Link to="/">Home</Link>
+                        <Link to="/home">Home</Link>
                         <Link to="/videos">Videos</Link>
                         <Link to="/contact">Contact</Link>
                         <Link to="/">Social</Link>
