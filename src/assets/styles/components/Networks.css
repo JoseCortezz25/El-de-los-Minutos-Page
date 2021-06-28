@@ -1,0 +1,72 @@
+@import "../Vars.css";
+
+.container-networks {
+    width: 100%;
+    min-height: 140px;
+    /* border: 1px solid blue; */
+    margin-bottom: 30px;
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    place-items: center;
+}
+
+.item__card a {
+    color: var(--gray-dark-color);
+    text-decoration: none;
+}
+
+.item__card h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -.03em;
+    padding: 0 2em 0 0;
+    line-height: 1;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.item__card p {
+    margin-top: 18px;
+    letter-spacing: 2px;
+}
+
+.item__card h2 span {
+    display: block;
+    text-align: left;
+    font-size: .85rem;
+    font-weight: 500;
+}
+
+
+.network__card {
+    display: flex;
+}
+
+.network__card figure img {
+    width: 48px;
+    height: auto;
+    margin: 0 1em 0 0;
+    padding: 0;
+}
+
+.network__card-title {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+}
+
+.network__card-title a h2 span {
+    display: block;
+    letter-spacing: 3.2px;
+    text-align: left;
+    font-size: .85rem;
+    font-weight: 500;
+}
+
+.network__card-title p {
+    letter-spacing: 3.2px;
+}
+.network__card-title a {
+    text-decoration: none;
+    color: #272c30;
+}

@@ -1,0 +1,13 @@
+@import "../Vars.css";
+
+.container-layout {
+    /* position: relative; */
+    width: 100%;
+    height: auto;
+    /* background:
+        radial-gradient(farthest-corner circle at 10% 20%, var(--blue-color) 0%, transparent 38%) top left,
+        radial-gradient(farthest-corner circle at 90% 80%, var(--purple-color) 0%, transparent 38%)  bottom right;
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: blue(10px); */
+}

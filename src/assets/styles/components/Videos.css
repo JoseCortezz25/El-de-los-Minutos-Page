@@ -1,0 +1,17 @@
+.container-videos {
+    width: 90%;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    /* margin-top: 20px; */
+}
+
+.container-cards-video{
+    width: 90%;
+    margin: auto;
+    display: grid; 
+    grid-auto-flow: row dense; 
+    grid-template-columns: repeat(3, 1fr); 
+    /* grid-template-rows: 1fr 1fr 1fr;  */
+    gap: 10px 10px; 
+}
+

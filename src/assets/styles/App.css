@@ -1,0 +1,24 @@
+@import "./Vars.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--dark-gray-color);
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Karla', sans-serif;
+    /* overflow: hidden; */
+    
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+    line-height: 1.1;
+    /* margin: 2.5rem 0 .83333rem; */
+    text-rendering: optimizeLegibility;
+}

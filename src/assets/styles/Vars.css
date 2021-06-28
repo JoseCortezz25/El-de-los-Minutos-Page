@@ -1,0 +1,10 @@
+:root {
+    /* --dark-gray-color: rgb(22, 21, 22); */
+    --dark-gray-color: #FFF;
+    --blue-color: rgba(52, 152, 219, 0.40);
+    --purple-color: rgba(155, 89, 182, 0.60);
+    --purple-dark-color: rgb(85, 46, 99);
+    --gray-color: #86939d;
+    --gray-dark-color: rgb(39, 44, 48);
+    --red-color: #d63031;
+}

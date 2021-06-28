@@ -1,0 +1,24 @@
+.container-message {
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+    /* color: #fff; */
+}
+
+.container-message h2 {
+    font-size: 2.5em;
+    text-transform: uppercase;
+}
+
+.container-message h3 {
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
+
+.container-message h2 strong {
+    color: #74b9ff;
+}

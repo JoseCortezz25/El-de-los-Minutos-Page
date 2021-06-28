@@ -1,0 +1,10 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" width="187" height="62.5" viewBox="0 0 187 62.5">
+  <text id="minutos" transform="translate(0 52.5)" fill="#fff" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">MINUTOS</tspan></text>
+  <text id="El_de_los_" data-name="El de los " transform="translate(35 5.5)" fill="#fff" font-size="20" font-family="TwCenMT-Regular, Tw Cen MT"><tspan x="0" y="17">EL DE LOS </tspan></text>
+  <g id="Group_1" data-name="Group 1" transform="translate(-630.711 -374.5)">
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(749.5 374.5)">
+      <path id="Polygon_2" data-name="Polygon 2" d="M12.161,10.605a5,5,0,0,1,9.178,0l9.139,21.12a5,5,0,0,1-4.589,6.986H7.611a5,5,0,0,1-4.589-6.986Z" transform="translate(38.711) rotate(90)" fill="#d63031"/>
+      <text id="NEWS" transform="translate(2.211 19.5)" fill="#fff" font-size="9" font-family="TwCenMT-Bold, Tw Cen MT" font-weight="700"><tspan x="0" y="0">NEWS</tspan></text>
+    </g>
+  </g>
+</svg>

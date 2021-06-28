@@ -1,0 +1,27 @@
+@import "../Vars.css";
+.container-title {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    /* border: 1px solid blue; */
+}
+
+.title {
+    color: var(--gray-dark-color);
+    font-size: 2em;
+    line-height: 1.8;
+}
+
+.title::before {
+    background-color: var(--purple-dark-color);
+    width: 45px;
+    height: 3px;
+    display: block;
+    content: "";
+}
+
+.description {
+    color: var(--gray-color);
+    font-size: .88889em;
+    font-weight: 400;
+}
