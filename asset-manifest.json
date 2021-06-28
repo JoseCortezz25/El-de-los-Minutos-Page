@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/css/main.2e16f2a9.chunk.css",
+    "main.js": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/js/main.4541ce42.chunk.js",
+    "main.js.map": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/js/main.4541ce42.chunk.js.map",
+    "runtime-main.js": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/js/runtime-main.ac3c9bbc.js",
+    "runtime-main.js.map": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/js/runtime-main.ac3c9bbc.js.map",
+    "static/js/2.0b9a776a.chunk.js": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/js/2.0b9a776a.chunk.js",
+    "static/js/2.0b9a776a.chunk.js.map": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/js/2.0b9a776a.chunk.js.map",
+    "index.html": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/index.html",
+    "static/css/main.2e16f2a9.chunk.css.map": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/css/main.2e16f2a9.chunk.css.map",
+    "static/js/2.0b9a776a.chunk.js.LICENSE.txt": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/js/2.0b9a776a.chunk.js.LICENSE.txt",
+    "static/media/icons8-tiktok.47d1506f.svg": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/media/icons8-tiktok.47d1506f.svg",
+    "static/media/icons8-twitter.01956d1a.svg": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/media/icons8-twitter.01956d1a.svg",
+    "static/media/icons8-youtube-play-button-black.f1a4d2bd.svg": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/media/icons8-youtube-play-button-black.f1a4d2bd.svg",
+    "static/media/icons8-youtube-play-button.574e058d.svg": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/media/icons8-youtube-play-button.574e058d.svg",
+    "static/media/no-puede-ser.2e7342c3.jpg": "/JoseCortezz25.github.io/El-de-los-Minutos-Page/static/media/no-puede-ser.2e7342c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac3c9bbc.js",
+    "static/js/2.0b9a776a.chunk.js",
+    "static/css/main.2e16f2a9.chunk.css",
+    "static/js/main.4541ce42.chunk.js"
+  ]
+}
