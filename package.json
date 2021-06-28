@@ -1,7 +1,7 @@
 {
   "name": "youtube-project",
   "version": "0.1.0",
-  "homepage": "JoseCortezz25.github.io/El-de-los-Minutos-Page/",
+  "homepage": "https://josecortezz25.github.io/El-de-los-Minutos-Page/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
