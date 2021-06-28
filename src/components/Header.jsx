@@ -12,10 +12,10 @@ const Header = () => {
                         <img src={ logoMinutosNews } alt="logo del canal" />
                     </nav>
                     <nav>
-                        <Link to="/home">Home</Link>
-                        <Link to="/videos">Videos</Link>
-                        <Link to="/contact">Contact</Link>
-                        <Link to="/">Social</Link>
+                        <Link to="/El-de-los-Minutos-Page/home">Home</Link>
+                        <Link to="/El-de-los-Minutos-Page/videos">Videos</Link>
+                        <Link to="/El-de-los-Minutos-Page/contact">Contact</Link>
+                        <Link to="/El-de-los-Minutos-Page/">Social</Link>
                     </nav>
                 </div>
             </header>
