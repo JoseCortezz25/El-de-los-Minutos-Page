@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logoMinutosNews from '../assets/static/logo-minutos-news.png';
+import { namesHeader } from '../utils/namesHeader';
 import '../assets/styles/components/Header.css';
 
 const Header = () => {
@@ -12,10 +13,12 @@ const Header = () => {
                         <img src={ logoMinutosNews } alt="logo del canal" />
                     </nav>
                     <nav>
-                        <Link to="/El-de-los-Minutos-Page/home">Home</Link>
-                        <Link to="/El-de-los-Minutos-Page/videos">Videos</Link>
-                        <Link to="/El-de-los-Minutos-Page/contact">Contact</Link>
-                        <Link to="/El-de-los-Minutos-Page/">Social</Link>
+
+                        { namesHeader.map((name) => {
+                            return (
+                                <Link to={`/El-de-los-Minutos-Page/${name.path}`}>{name.name}</Link>
+                            )
+                        })}
                     </nav>
                 </div>
             </header>

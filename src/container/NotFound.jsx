@@ -8,7 +8,7 @@ export default function NotFound({ history }) {
         <>
             <div className="container-notfound">
                 <h1>The page was not found :(</h1>
-                <button className="btn-back" onClick={() => history.push("/El-de-los-Minutos-Page/home")}>Back to home</button>
+                <button className="btn-back" onClick={() => history.push("/El-de-los-Minutos-Page/")}>Back to home</button>
                 <div className="image-error">
                     <img src={ noPuedeSerImage } alt="no puede ser error 404" />
                 </div>

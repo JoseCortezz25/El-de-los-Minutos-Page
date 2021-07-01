@@ -3,12 +3,20 @@
 .container-networks {
     width: 100%;
     min-height: 140px;
-    /* border: 1px solid blue; */
-    margin-bottom: 30px;
+    margin: 30px 0px 30px;
     
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    place-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+    align-items: center;
+    justify-content: space-around;
+    
+    grid-gap: 30px;
+}
+
+.item__card, .network__card {
+    width: auto;
+    display: inline-block;
 }
 
 .item__card a {
@@ -19,7 +27,8 @@
 .item__card h2 {
     font-size: 1.5rem;
     font-weight: 700;
-    letter-spacing: -.03em;
+    /* letter-spacing: -.03em; */
+    letter-spacing: -1.2px;
     padding: 0 2em 0 0;
     line-height: 1;
     text-transform: uppercase;
@@ -41,6 +50,7 @@
 
 .network__card {
     display: flex;
+    /* margin-right: 15px; */
 }
 
 .network__card figure img {

@@ -29,11 +29,16 @@
     text-transform: uppercase;
     margin-top: 20px;
     margin-bottom: 8px;
-    font-size: 1.7em;
-    line-height: 1.5;
+    font-size: 1.5em;
+    line-height: 1.1;
 }
 
 .card__title a{
     color: var(--gray-dark-color);
     text-decoration: none;
+}
+
+.card__description {
+    color: var(--gray-dark-color);
+    font-weight: 300;
 }

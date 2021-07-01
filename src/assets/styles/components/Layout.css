@@ -10,4 +10,7 @@
     background-position: center;
     background-repeat: no-repeat;
     backdrop-filter: blue(10px); */
+    /* background:
+        radial-gradient(farthest-corner circle at 27% 11%, var(--blue-color) 0%, transparent 10%) top left,
+        radial-gradient(farthest-corner circle at 36% 17%, var(--purple-color) 0%, transparent 13%)  bottom right; */
 }

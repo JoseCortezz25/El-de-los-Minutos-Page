@@ -16,12 +16,12 @@ function Networks() {
                 </a>
                 <p>🎥😎🔥</p>
             </div>
+            
             <div className="network__card">
-
                 <figure>
                     <img src={youtubeIcon} alt="Youtube" />
                 </figure>
-                <div class="network__card-title">
+                <div className="network__card-title">
                     <a href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer">
                         <h2>
                             <span>Youtube</span>El de los Minutos
@@ -36,7 +36,22 @@ function Networks() {
                 <figure>
                     <img src={tiktokIcon} alt="tiktok" />
                 </figure>
-                <div class="network__card-title">
+                <div className="network__card-title">
+                    <a href={TWITTER_URL} target="_blank" rel="noopener noreferrer">
+                        <h2>
+                            <span>Tiktok</span>El de los Minutos
+                        </h2>
+                    </a>
+                    <p>🗓️ Martes 4pm</p>
+                </div>
+
+            </div>
+            
+            {/* <div className="network__card">
+                <figure>
+                    <img src={tiktokIcon} alt="tiktok" />
+                </figure>
+                <div className="network__card-title">
                     <a href={TWITTER_URL} target="_blank" rel="noopener noreferrer">
                         <h2>
                             <span>Tiktok</span>El de los Minutos
@@ -44,8 +59,8 @@ function Networks() {
                     </a>
                     <p>🗓️ Sabado 5PM</p>
                 </div>
+            </div> */}
 
-            </div>
         </section>
     );
 }

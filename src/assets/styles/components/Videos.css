@@ -6,12 +6,11 @@
 }
 
 .container-cards-video{
-    width: 90%;
+    width: 95%;
     margin: auto;
     display: grid; 
     grid-auto-flow: row dense; 
     grid-template-columns: repeat(3, 1fr); 
     /* grid-template-rows: 1fr 1fr 1fr;  */
-    gap: 10px 10px; 
+    gap: 25px 10px; 
 }
-
