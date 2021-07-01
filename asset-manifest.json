@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/El-de-los-Minutos-Page/static/css/main.2e16f2a9.chunk.css",
-    "main.js": "/El-de-los-Minutos-Page/static/js/main.89d770f0.chunk.js",
-    "main.js.map": "/El-de-los-Minutos-Page/static/js/main.89d770f0.chunk.js.map",
+    "main.css": "/El-de-los-Minutos-Page/static/css/main.446345cd.chunk.css",
+    "main.js": "/El-de-los-Minutos-Page/static/js/main.ce7bbab3.chunk.js",
+    "main.js.map": "/El-de-los-Minutos-Page/static/js/main.ce7bbab3.chunk.js.map",
     "runtime-main.js": "/El-de-los-Minutos-Page/static/js/runtime-main.047ef6b0.js",
     "runtime-main.js.map": "/El-de-los-Minutos-Page/static/js/runtime-main.047ef6b0.js.map",
-    "static/js/2.0b9a776a.chunk.js": "/El-de-los-Minutos-Page/static/js/2.0b9a776a.chunk.js",
-    "static/js/2.0b9a776a.chunk.js.map": "/El-de-los-Minutos-Page/static/js/2.0b9a776a.chunk.js.map",
+    "static/js/2.b78cdb8f.chunk.js": "/El-de-los-Minutos-Page/static/js/2.b78cdb8f.chunk.js",
+    "static/js/2.b78cdb8f.chunk.js.map": "/El-de-los-Minutos-Page/static/js/2.b78cdb8f.chunk.js.map",
     "index.html": "/El-de-los-Minutos-Page/index.html",
-    "static/css/main.2e16f2a9.chunk.css.map": "/El-de-los-Minutos-Page/static/css/main.2e16f2a9.chunk.css.map",
-    "static/js/2.0b9a776a.chunk.js.LICENSE.txt": "/El-de-los-Minutos-Page/static/js/2.0b9a776a.chunk.js.LICENSE.txt",
+    "static/css/main.446345cd.chunk.css.map": "/El-de-los-Minutos-Page/static/css/main.446345cd.chunk.css.map",
+    "static/js/2.b78cdb8f.chunk.js.LICENSE.txt": "/El-de-los-Minutos-Page/static/js/2.b78cdb8f.chunk.js.LICENSE.txt",
     "static/media/icons8-tiktok.47d1506f.svg": "/El-de-los-Minutos-Page/static/media/icons8-tiktok.47d1506f.svg",
     "static/media/icons8-twitter.01956d1a.svg": "/El-de-los-Minutos-Page/static/media/icons8-twitter.01956d1a.svg",
     "static/media/icons8-youtube-play-button-black.f1a4d2bd.svg": "/El-de-los-Minutos-Page/static/media/icons8-youtube-play-button-black.f1a4d2bd.svg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.047ef6b0.js",
-    "static/js/2.0b9a776a.chunk.js",
-    "static/css/main.2e16f2a9.chunk.css",
-    "static/js/main.89d770f0.chunk.js"
+    "static/js/2.b78cdb8f.chunk.js",
+    "static/css/main.446345cd.chunk.css",
+    "static/js/main.ce7bbab3.chunk.js"
   ]
 }
