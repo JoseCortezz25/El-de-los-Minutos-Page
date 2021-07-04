@@ -1,5 +1,5 @@
 export const namesHeader = [
-    { name: 'Home', path: '', },
-    { name: 'Videos', path: 'videos', },
-    { name: 'Blog', path: 'blog', }
+    { id: 1, name: 'Home', path: '', },
+    { id: 2, name: 'Videos', path: 'videos', },
+    { id: 3, name: 'Blog', path: 'blog', }
 ]

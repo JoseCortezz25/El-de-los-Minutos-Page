@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import { Link } from 'react-router-dom';
 import logoMinutosNews from '../assets/static/logo-minutos-news.png';
 import { namesHeader } from '../utils/namesHeader';
@@ -16,7 +16,9 @@ const Header = () => {
 
                         { namesHeader.map((name) => {
                             return (
-                                <Link to={`/El-de-los-Minutos-Page/${name.path}`}>{name.name}</Link>
+                                <Fragment key={name.id}>
+                                    <Link to={`/El-de-los-Minutos-Page/${name.path}`}>{name.name}</Link>
+                                </Fragment>
                             )
                         })}
                     </nav>

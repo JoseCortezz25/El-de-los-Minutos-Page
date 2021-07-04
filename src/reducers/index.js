@@ -1,5 +1,21 @@
+import {
+    GET_POSTS,
+} from '../utils/constant';
+
 const reducer = (state, action) => {
-    return state;
+
+    switch (action.type) {
+        case GET_POSTS:
+            return {
+                ...state,
+                posts: action.payload
+            }            
+
+            
+        default:
+            return state;
+
+    }
 }
 
 export default reducer;

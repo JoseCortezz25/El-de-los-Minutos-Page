@@ -24,10 +24,10 @@ function Footer() {
                         <img src={tiktokIcon} alt="icono de tiktok" />
                     </a>
                     <a href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer" className="icon">
-                        <img src={youtubeIcon} alt="" />
+                        <img src={youtubeIcon} alt="icono de youtube" />
                     </a>
                     <a href={TWITTER_URL} target="_blank" rel="noopener noreferrer" className="icon">
-                        <img src={twitterIcon} alt="" />
+                        <img src={twitterIcon} alt="icono de twitter" />
                     </a>
                 </div>
             </div>

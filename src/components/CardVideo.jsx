@@ -6,11 +6,11 @@ function CardVideo({image, title, description}) {
 	return (
 		<div className="card">
 			<div className="card__thumbnail">
-				<img src={image} alt="" />
+				<img src={image} alt="imagen del post" />
 			</div>
-			<h3 className="card__title">
+			<h2 className="card__title">
 				<Link to="/video">{title}</Link>
-			</h3>
+			</h2>
 			<p className="card__description">
 				{description}	
 			</p>

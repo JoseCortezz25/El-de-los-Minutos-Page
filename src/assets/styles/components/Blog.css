@@ -4,3 +4,27 @@
     width: 90%;
     margin: 0 auto;
 }
+
+.post-feed {
+    width: 90%;
+    /* height: 500px;
+    border: 1px solid blue; */
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 27px 30px;
+    /* overflow: auto; */
+}
+
+.btn {
+    background-color: aliceblue;
+    width: 100px;
+    height: 40px;
+}
+
+.section-pagination {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}

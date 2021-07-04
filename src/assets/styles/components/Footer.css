@@ -26,12 +26,18 @@ footer {
     padding: 2px 6px;
     border-radius: 3px;
 }
+
+.footer__nav .icon {
+    width: 30px;
+    height: 30px;
+}
+
 .footer__nav:nth-last-of-type(1){
     min-width: 10%;
     /* border: 2px solid red; */
     display: flex;
     justify-content: space-between;
 }
-.footer__container .footer__nav .icon img {
-    width: 30px;
+.footer__nav .icon img {
+    width: 100%;
 }

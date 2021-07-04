@@ -16,6 +16,7 @@ const App = () => {
                     <Route exact path="/El-de-los-Minutos-Page/videos" component={Videos}/>
                     <Route exact path="/El-de-los-Minutos-Page/contact" component={Contact}/>
                     <Route exact path="/El-de-los-Minutos-Page/blog" component={Blog}/>
+                    <Route exact path="/El-de-los-Minutos-Page/blog/:id" component={Blog}/>
 
                     <Route component={NotFound} />
                 </Switch>

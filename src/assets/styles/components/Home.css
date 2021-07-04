@@ -15,13 +15,7 @@
     /* border: 1px solid red; */
 }
 
-.describing-myself__image {
-    width: 160px;
-    height: 160px;
-    min-width: 160px;
-    min-height: 160px;
-    margin-right: 40px;
-}
+
 
 .describing-myself__info h1 {
     font-size: 2.44444em;
@@ -33,6 +27,14 @@
     font-size: 18px;
     /* max-width: 70%; */
     line-height: 1.5;
+}
+
+.describing-myself__image {
+    max-width: 170px;
+    max-height: 170px;
+    min-width: 160px;
+    min-height: 160px;
+    margin-right: 40px;
 }
 
 .describing-myself__image img {
